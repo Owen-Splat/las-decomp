@@ -9,7 +9,7 @@ Instructions:
 1. Goto `File` -> `Import File...` and import your unaltered copy of the `main` file
 2. Open `main` in the CodeBrowser
 3. Goto `File` -> `Add to Program...`
-4. Select the `main.xml` from this repository and click `Add to Program`
+4. Select the `main.xml` from this [repository](https://github.com/Owen-Splat/las-decomp/releases/latest) and click `Add to Program`
 
 
 # Exporting
